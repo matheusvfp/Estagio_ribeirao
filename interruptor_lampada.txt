@@ -1,0 +1,12 @@
+1ª interação:
+
+Ligar o interruptor 1 e deixar ligado por um tempo. 
+Desligar o interruptor 1.
+Ligar o interruptor 2 e deixar acesso.
+Deixar o interruptor 3 desligado.
+
+Sala de Lâmpadas:
+
+Se uma lâmpada estiver acesa, ela é controlada pelo interruptor 2.
+Se uma lâmpada estiver com a temperatura mais elevada (indicando que foi ligada e desligada mais recentemente), ela é controlada pelo interruptor 1.
+Se uma lâmpada estiver fria (indicando que nunca foi ligada), ela é controlada pelo interruptor 3.
